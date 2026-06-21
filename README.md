@@ -1,5 +1,9 @@
 
 
+https://github.com/user-attachments/assets/2a335b54-cae2-4ab5-b32b-bfa84191935e
+
+
+
 Uploading Video_Project_24_compressed.mp4…
 
 # 🛡️ Real-Time AI-Driven SIEM Data Lake Architecture
